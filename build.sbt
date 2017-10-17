@@ -1,4 +1,4 @@
-name := "aws-cf-isac-test"
+name := "aws-cf-iac-test"
 
 version := "1.0"
 
